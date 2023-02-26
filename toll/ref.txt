@@ -1,0 +1,5 @@
+https://www.geeksforgeeks.org/detect-and-recognize-car-license-plate-from-a-video-in-real-time/
+
+
+https://www.geeksforgeeks.org/reading-text-from-the-image-using-tesseract/
+
